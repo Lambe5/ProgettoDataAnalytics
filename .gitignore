@@ -1,0 +1,6 @@
+_pycache_/
+.pt_tmp/
+lightning_logs/
+*.csv
+*.npy
+*.pyc
